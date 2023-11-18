@@ -7,10 +7,10 @@ It's purpose is to build a REST API that allows users to find songs/creators.
 ## Learning
 
 - Spring Boot
-- Spring Data JPA
+- Spring Data Meilisearch
 - Spring Security
 - Spring testing
-- MeiliSearch
+- Meilisearch
 - Weaviate
 - Redis
 - Caching
